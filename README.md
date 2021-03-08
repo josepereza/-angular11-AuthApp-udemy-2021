@@ -1,6 +1,10 @@
 # Auth
 ![images](authApp.png)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
+## Backend
+El backend esta creado con strapi.io.  Para que funcione el registro de usuarios debemos ir a 
+´´´Configuraciones -> roles y permisos -> Roles -> Public ->USERS-PERMISSSIONS -> USER ´´´
+y dentro de USER activamos la casilla CREATE.
 
 ## Development server
 
